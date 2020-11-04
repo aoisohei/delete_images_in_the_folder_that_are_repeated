@@ -29,7 +29,7 @@ Project structure:
 0. Download the project from the git hub \
 1. Opening Anaconda \
 2. Go to the pack in the root of the folder `level emotions` \
-3. Pull out two lines \
+3. Execute two lines \
 4. Code explanations coming soon \
 
 ***
@@ -54,7 +54,7 @@ Structure du projet:
 0. Téléchargez le projet depuis le hub git \
 1. Ouverture d'Anaconda \
 2. Allez dans le pack à la racine du dossier `level emotion` \
-3. Tirez deux lignes \
+3. Exécute deux lignes \
 4. Explications du code à venir \
 
 ***
