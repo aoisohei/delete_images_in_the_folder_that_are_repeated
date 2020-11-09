@@ -11,6 +11,7 @@ Les liens outils pour creation readme.md :
 ***
 # Delete images in the folder that are repeated.
 ![](https://img.shields.io/badge/Langue-English-blue)
+
 Project structure:
 ```
 03_13 distrusted/
@@ -35,6 +36,7 @@ Project structure:
 ***
 # Supprimer les images du dossier qui sont répétées.
 ![](https://img.shields.io/badge/Langue-Fran%C3%A7ais-green)
+
 Structure du projet:
 ```
 03_13 distrusted/
@@ -60,6 +62,7 @@ Structure du projet:
 ***
 # Удаляем в папке изображения которые повторяются.
 ![](https://img.shields.io/badge/Langue-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-red)
+
 Структура проекта :
 ```
 level emotions/
